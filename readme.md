@@ -1,4 +1,4 @@
-Contains all the ASSETS used in webinar "The Art playing with Data" by IBM in Association with TechGig
+Contains all the Assets used in webinar "The Art playing with Data" by IBM in Association with TechGig
 
 # Public datasets:
 
